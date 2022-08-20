@@ -1,4 +1,5 @@
 FEATURE_EXTRACTOR_CHECKPOINT_PATH = '/gpfsscratch/rech/ohv/ueu39kt/mvtec/deit_base_distilled_patch16_384-d0272ac0.pth'
+CHECKPOINT_DIR = '/gpfsscratch/rech/ohv/ueu39kt/FastFlowGathierry/weights/CartetNewFastFlow_OriginalMain'
 MVTEC_CATEGORIES = [
     "bottle",
     "cable",
